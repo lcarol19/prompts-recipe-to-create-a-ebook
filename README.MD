@@ -20,13 +20,12 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ChatGPT：
 
-| prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-| Crie um ebook detalhado sobre a linguagem Cobol com histórico resumido, explicação rica sobre a estrutura da linguagem e principais comandos. O público alvo é jovem universitário em tecnologia.
+|  Ação    |prompt                                                                                 
+| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| conteúdo | Crie um ebook detalhado sobre a linguagem Cobol com histórico resumido, explicação rica sobre a estrutura da linguagem e principais comandos. O público alvo é jovem universitário em tecnologia.
 {REGRAS} Crie um nome para o ebook, Faça um breve resumo do assunto abordado, Explique de maneira simples e rica, com exemplos, Apresente um texto enxuto, Traga exemplo de códigos em contextos reais, Faça uma conclusão |
+
+
 
 
 
