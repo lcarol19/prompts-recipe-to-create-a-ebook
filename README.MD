@@ -13,7 +13,6 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 - [Leonardo.ai](https://app.leonardo.ai//) 
 - [Gamma.app](https://gamma.app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-- [Copilot](https://copilot.microsoft.com/)
 
 ## 🧠 Prompts
 
@@ -24,29 +23,26 @@ ChatGPT：
 | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | conteúdo | Crie um ebook detalhado sobre a linguagem Cobol com histórico resumido, explicação rica sobre a estrutura da linguagem e principais comandos. O público alvo é jovem universitário em tecnologia {REGRAS} Crie um nome para o ebook, Faça um breve resumo do assunto abordado, Explique de maneira simples e rica, com exemplos, Apresente um texto enxuto, Traga exemplo de códigos em contextos reais, Faça uma conclusão |
 
+Leonardo.ai：
 
+|  Ação  | prompt                                                                                                                                                                          |
+| :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| imagem | Crie uma imagem para um ebook sobre a linguagem de programação Cobol com público alvo jovens universitários de tecnologia. A imagem deve conter o desenho de um terminal 32x70. |
 
+Gamma.app：
 
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  Ação  | prompt                                                                                                                                                            |
+| :----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| imagem | Um dinossauro estilizado em tons de cinza elegante, representando a linguagem de programação COBOL e sua história de desenvolvimento para aplicações de negócios. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagem do computador gerada via Leonardo.ai
+- Imagem logo dinossauro via Gamma.app
+- Criação do Ebook via Gamma.app
+- Edição do Ebook no PowerPoint
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 
 
