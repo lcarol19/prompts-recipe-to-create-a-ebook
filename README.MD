@@ -22,8 +22,7 @@ ChatGPT：
 
 |  Ação    |prompt                                                                                 
 | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| conteúdo | Crie um ebook detalhado sobre a linguagem Cobol com histórico resumido, explicação rica sobre a estrutura da linguagem e principais comandos. O público alvo é jovem universitário em tecnologia.
-{REGRAS} Crie um nome para o ebook, Faça um breve resumo do assunto abordado, Explique de maneira simples e rica, com exemplos, Apresente um texto enxuto, Traga exemplo de códigos em contextos reais, Faça uma conclusão |
+| conteúdo | Crie um ebook detalhado sobre a linguagem Cobol com histórico resumido, explicação rica sobre a estrutura da linguagem e principais comandos. O público alvo é jovem universitário em tecnologia {REGRAS} Crie um nome para o ebook, Faça um breve resumo do assunto abordado, Explique de maneira simples e rica, com exemplos, Apresente um texto enxuto, Traga exemplo de códigos em contextos reais, Faça uma conclusão |
 
 
 
